@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 
-
+// we learned data type , scaffold, and much more in day 1
 class HomePage extends StatelessWidget{
   @override
   Widget build (BuildContext context){
